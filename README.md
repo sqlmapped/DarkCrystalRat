@@ -6,7 +6,7 @@
 
 - **Development Languages**: Java and DevelNext.
 - **Security**: Verified to be **free of malware**.
-- **Password of Zip**: Uses the standard password `sqlmapped` for database access.
+- **Password of Zip**: Uses the password `sqlmapped`.
 - **Hosting**: Server component operates on a hosting service rather than fixed ports, simplifying configuration.
 
 ## Background Information
