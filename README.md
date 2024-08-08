@@ -1,6 +1,7 @@
 # DarkCrystalRAT (DCRat)
 
 **DarkCrystalRAT (DCRat)** is a remote administration tool developed in Java and DevelNext. This repository contains a version modified by Lincoin. Please note that this project **is intended for educational purposes only** and **does not contain any malware**.
+![image](https://github.com/user-attachments/assets/9f3fb59c-1e97-409f-b8d9-3f7bc768b317)
 
 ## Key Features
 
